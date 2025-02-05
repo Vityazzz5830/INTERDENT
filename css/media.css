@@ -1,0 +1,333 @@
+@media screen and (max-width: 1600px) and (min-width: 1200px){
+
+/*----------------------ГЛАВНАЯ СТРАНИЦА---------------------------*/
+
+body {
+  overflow-x: auto;
+}
+
+.header_content_leftpart_navmenu_list_item {
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+.header_content_rightpart_messengers {
+  column-gap: 10px;
+}
+
+.header_content_rightpart_order {
+  padding-left: 15px;
+  padding-right: 15px;
+  margin-left: 15px;
+  margin-right: 15px;
+}
+
+.header_content_leftpart {
+  column-gap: 10px;
+}
+
+.header_content {
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+.header_content_rightpart_phone {
+  font-size: 1rem;
+}
+
+.header_content_leftpart_navmenu {
+  width: 100%;
+}
+
+.header_content_leftpart {
+  width: 55vw;
+}
+
+.header_content_leftpart_navmenu_list {
+  justify-content: space-between;
+}
+
+
+
+
+
+
+
+.firstsec_mainpage_slider_item > img:nth-child(1) {
+	width: 100%;
+}
+
+
+
+
+.catalogsec_mainpage_cardslist_list_item {
+  max-width: 151px;
+}
+
+.catalogsec_mainpage_container {
+  max-width: 1165px;
+}
+
+
+
+.advantagessec_mainpage {
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+
+.aboutussec_mainpage_content {
+  column-gap: 30px;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+}
+
+.aboutussec_mainpage_content_leftpart > img:nth-child(1) {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+
+
+
+
+
+
+.formsec_mainpage {
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+
+
+
+.blogsec_mainpage {
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+.blogsec_mainpage_content_list_item {
+  max-width: 375px;
+}
+
+
+
+
+
+
+
+.footer_container_content_uppart_background {
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+.footer_container_content_downpart {
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+.footer_container_content_copyrights {
+  max-width: unset;
+  padding-left: 20px;
+  padding-right: 20px;
+  width: calc(100vw - 40px);
+}
+
+.footer_container_content_uppart {
+  max-width: unset;
+}
+
+.footer_container_content_downpart {
+  max-width: unset;
+  width: calc(100vw - 40px);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+/*----------------------СТРАНИЦА ДОСТАВКА---------------------------*/
+
+.deliverysec_deliverypage {
+  margin-left: 20px;
+  margin-right: 20px;
+}
+
+.deliverysec_deliverypage_content {
+  margin-top: 50px;
+}
+
+
+/*----------------------СТРАНИЦА КОНТАКТЫ---------------------------*/
+
+.contactssec_contactssecpage {
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+
+
+
+/*----------------------СТРАНИЦА КАТАЛОГ ПОЛИМЕРЫ---------------------------*/
+
+.catalogsec_secondpage {
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+.catalogsec_secondpage {
+	width: calc(100vw - 41px);
+}
+
+/*----------------------СТРАНИЦА КАТАЛОГ ОТБЕЛИВАНИЕ---------------------------*/
+
+/*----------------------СТРАНИЦА КАТАЛОГ НИТИ---------------------------*/
+
+/*----------------------СТРАНИЦА КАТАЛОГ КОМПОЗИТ---------------------------*/
+
+/*----------------------СТРАНИЦА КАТАЛОГ ИТЕМ---------------------------*/
+
+.catalog_item_sec_single {
+  padding-left: 20px;
+  padding-right: 20px;
+  width: calc(100vw - 40px);
+}
+
+.questions-list {
+  max-width: unset;
+}
+
+
+
+.catalog_item_sec_single_content_rightpart_slider {
+  
+}
+
+.catalog_item_sec_single_content_rightpart_slider {
+ 
+ 
+}
+
+.catalog_item_sec_single_content_rightpart_slider_list_item img {
+  width: calc(100% - 40px);
+}
+.catalog_item_sec_single_content_rightpart_slider {
+  width: calc(100% - 70px);
+}
+
+.catalog_item_sec_single_content_popular_items {
+	overflow-x: hidden;
+}
+
+.catalog_item_sec_single_content_rightpart_slider_list_item img {
+  max-width: 50vw;
+}
+
+.catalog_item_sec_single_content_rightpart_slider_list {
+  max-width: 50vw;
+}
+
+
+  .catalog_item_sec_single_content_rightpart_slider {
+    width: 100%;
+    min-width: 673px;
+  }
+
+  .catalog_item_sec_single_content_rightpart_slider_list_item img {
+    width: 100%;
+  }
+
+.catalog_item_sec_single_content_rightpart_slider_list_buttons_leftbtn {
+  padding-left: 3px;
+}
+
+.catalog_item_sec_single_content_rightpart_slider_list_buttons_rightbtn {
+  padding-right: 3px;
+}
+
+.catalog_item_sec_single_content_rightpart_slider {
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+  .catalog_item_sec_single_content_rightpart_slider {
+    width: calc(100% - 40px);
+  }
+
+.catalog_item_sec_single_content_rightpart_slider {
+	max-width: unset;
+}
+
+.catalog_item_sec_single_content_rightpart_slider_list_item{
+	width: 100%;
+}
+
+.catalog_item_sec_single_content_rightpart_slider_list{
+	margin: 0 auto;
+}
+
+
+
+/*----------------------СТРАНИЦА КАТАЛОГ ДЕЗСРЕДСТВА---------------------------*/
+
+
+/*----------------------СТРАНИЦА КАТАЛОГ АДГЕЗИВЫ---------------------------*/
+
+
+/*----------------------СТРАНИЦА КАТАЛОГ АКСЕССУАРЫ---------------------------*/
+
+
+/*----------------------СТРАНИЦА БЛОГ---------------------------*/
+
+.blogsec_blogsecblogpage {
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+
+/*----------------------СТРАНИЦА БЛОГ ЗАПИСЬ---------------------------*/
+
+.blogsec_single {
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+
+/*----------------------СТРАНИЦА О КОМПАНИИ---------------------------*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
